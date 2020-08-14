@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mvvm_kotlin</string>
+
+    <string name="api_post_base_url" translatable="false">https://www.findPost.com</string>
+    <string name="go_to_post_page">Go to Post Page</string>>
+    <string name="no_filter_error">No Filter</string>>
+
+</resources>
